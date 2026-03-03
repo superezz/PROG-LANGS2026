@@ -1,11 +1,4 @@
 
-
-
-
-
-// public class arrayUtility {
-    
-// }
 import java.util.Scanner;
 
 public class ArrayUtility {
